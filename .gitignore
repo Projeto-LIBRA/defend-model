@@ -1,0 +1,4 @@
+enviroment_mac_defend/
+__pycache__/
+glove.6B.100d.txt
+requirements_original.txt
